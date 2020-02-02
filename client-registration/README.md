@@ -29,8 +29,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Applications
 
-1. Customer Booking Form API with Dynamic schema - https://github.com/kukuu/Ui-ML/tree/master/client-registration/src 
+1. HTML5 Speech Recognition - https://github.com/kukuu/Ui-ML/tree/master/HTML5-API-speech-recognition 
 
-2. https://github.com/kukuu/Ui-ML/tree/master/client-registration/speech-recognition - HTML5 Speech recognition API
+2. Form Validation API - https://github.com/kukuu/Ui-ML/tree/master/client-registration
 
-3. https://github.com/kukuu/Ui-ML/blob/master/client-registration/src/SpeechRecognition.js - Speech recognition REACT component
+3. REACT REDUX SEARCH List Admin Utility - https://github.com/kukuu/Ui-ML/tree/master/react-redux-search-list
